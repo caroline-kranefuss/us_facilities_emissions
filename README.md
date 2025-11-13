@@ -1,5 +1,8 @@
 # 5030UndestandingUncertaintyTeam
 
+Team Members: Sophie Kim​, Harry Millspaugh​, Sheyi Faparusi​, Jessica Oseghale​, Tiandra Threat​, Brooke Lumpkin​, Grace George​, Caroline Kranefuss​
+
+
 project info: https://www.epa.gov/ghgreporting/data-sets
 
 Data on facilities emissions across US 
